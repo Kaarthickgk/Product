@@ -6,3 +6,7 @@
 /ProductWebApi/obj
 /ProductWebApi/.vs/ProductWebApi
 /ProductWebApi/bin/Debug/net8.0
+/ProductWebApi/.vs/ProjectEvaluation
+/ProductWebApi/Controllers/WeatherForecastController.cs
+/ProductWebApi/WeatherForecast.cs
+/.gitignore
